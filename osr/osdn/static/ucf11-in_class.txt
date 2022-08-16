@@ -1,0 +1,6 @@
+shooting 1
+biking 2
+diving 3
+golf 4
+riding 5
+juggle 6
